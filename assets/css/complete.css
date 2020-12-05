@@ -1,6 +1,9 @@
 body {
     padding-top: 5rem;
 }
+#aphaeriah {
+    padding-top: 0rem !important;
+}
 .aphaeriah {
 	min-height: 100vh;
     max-height: 999px;
