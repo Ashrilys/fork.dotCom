@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
-Disallow: CNAME
 
 Sitemap: https://aphaeriah.com/sitemap.xml
