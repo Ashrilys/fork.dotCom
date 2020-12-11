@@ -21,9 +21,9 @@ gdprCookieNotice({
     locale: 'fr', //This is the default value
     timeout: 500, //Time until the cookie bar appears
     expiration: 30, //This is the default value, in days
-    domain: '.127.0.0.1:5500', //If you run the same cookie notice on all subdomains, define the main domain starting with a .
+    domain: '.aphaeriah.com', //If you run the same cookie notice on all subdomains, define the main domain starting with a .
     implicit: false, //Accept cookies on scroll
-    statement: '/mentions.legales', //Link to your cookie statement page
+    statement: '/mentions.legales' //Link to your cookie statement page
     //performance: ['JSESSIONID'], //Cookies in the performance category.
     //analytics: ['aphaeriah-analytics-nocookies'], //Cookies in the analytics category.
     //marketing: ['aphaeriah-marketing-nocookies'] //Cookies in the marketing category.
